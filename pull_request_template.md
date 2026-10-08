@@ -7,6 +7,8 @@ https://github.com/code-g0d/.github/blob/main/REVIEW.md
 專案另有規範時一併遵循。參考文件為選填，不必先建立 Issue。
 -->
 
+> 填妥內文後，在 PR 的一般留言區單獨送出 `/ai-review` 即可送審；不需 tag 個人帳號。現行約每五分鐘收件一次。完整規範：[REVIEW.md](https://github.com/code-g0d/.github/blob/main/REVIEW.md)。
+
 ## 變更與範圍
 
 <!-- 說明問題、修改前後行為、影響功能／模組及不處理範圍；有關聯 Issue 再附上。 -->
